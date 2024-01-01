@@ -1,5 +1,5 @@
 import ProductCard from "@/components/ProductCard";
-import products from "../components/products.json";
+import products from "./api/products.json";
 
 export default function Home({ shoeProducts }) {
   return (

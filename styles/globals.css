@@ -7,6 +7,9 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  
+  --toastify-color-success: #D6001C !important; 
+  --toastify-icon-color-success: var(--toastify-color-success);
 }
 
 * {
