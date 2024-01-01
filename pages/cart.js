@@ -70,7 +70,7 @@ const Cart = () => {
         {cartItems.length < 1 && (
           <div className="flex-[2] flex flex-col items-center pb-[50px] md:-mt-14">
             <Image
-              src="/ec1.jpg"
+              src="/Empty-Cart.jpg"
               width={500}
               height={500}
               priority
